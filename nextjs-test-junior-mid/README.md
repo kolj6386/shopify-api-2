@@ -1,3 +1,8 @@
+# May need to install the following: 
+
+npm install tailwindcss@latest postcss@latest autoprefixer@latest
+npm install @tailwindcss/aspect-ratio
+
 # Next.js + TailwindCSS Headless Coding Challenge - Junior-Mid
 
 #### Your task is to display a typical eCommerce product page from a Shopify store found using the provided credentials with React Hooks, Tailwind CSS & SSR OR SSG. Your solution will be judged based on the following things:
