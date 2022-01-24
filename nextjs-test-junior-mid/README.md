@@ -1,7 +1,7 @@
 # May need to install the following: 
 
-npm install tailwindcss@latest postcss@latest autoprefixer@latest
-npm install @tailwindcss/aspect-ratio
+- npm install tailwindcss@latest postcss@latest autoprefixer@latest
+- npm install @tailwindcss/aspect-ratio
 
 # Next.js + TailwindCSS Headless Coding Challenge - Junior-Mid
 
